@@ -1,11 +1,15 @@
 # **Magic the Gathering Forge: Custom card set - Kantai Collection**
 ## Introduction:
 
-This Repo Stores codes for Kantai Collection extension set for Magic the Gathering: Forge. Starting with photoshopping every single picture and using an application on iPhone called CardCreator, the development procedure shifted MSE. The scripting was done with VSCode and batch for injections. Each card in the set is designed under EDH card power standards. Althought, this set can be played as a standalone set, the set isn't meant to be played with standard/pioneer power level cards. Ideally this set finishes with roughly 350 cards fully scripted and fine tuned.
+This Repo Stores codes for Kantai Collection extension set for Magic the Gathering: Forge. Starting with photoshopping each single picture individually and using CardCreator (iOS App), the development procedure shifted toward utilizing MSE now. The scripting was done with VSCode and batch for injections. Each card in the set is designed under EDH card power standards. Although, this set can be played as a standalone set, the set isn't meant to be played with standard/pioneer power level cards. Ideally this set finishes with roughly 350 cards fully scripted and fine tuned.
+
+`Some ability (typically keywords) may require changes in the source code. `
 
 ### About forge:
 
 *Forge is an implementation of Magic the Gathering that lets you play against a computer AI opponent using most of the rules of a real game. You can construct decks for you and the computer to play with, currently 18475 (and counting) cards are available. We now include over 100 schemes, vanguards and planes. You can also play in a draft, sealed deck format or in a gauntlet against the computer. There is a new variant game mode that lets you play against multiple computer opponents. Currently, this program only lets you play against the computer, you cannot play against another human player over the Internet.*
+
+**That being said, it is possible for p2p player vs. player matches to be created in local LAN.**
 
 You can always download the latest release here: https://releases.cardforge.org/latest/
 
@@ -19,7 +23,7 @@ If you want to create your own custom MTG Forge set: https://github.com/Cockatri
 4. Click Inject and wait until the batch processes complete
 5. Change the theme located at the right top corner ("The Forge logo"/Layout/Theme) to Darked
 
-Note: You can choose your own directory, but you will need to manually change the directory in Inject.bat.
+Note: You can choose your own directory, but you will need to manually change the directory in Inject.bat. In this phase, this repo is only used for the author's own convenience.
 
 ## Dependencies:
 
