@@ -43,6 +43,7 @@ Note: You can choose your own directory, but you will need to manually change th
 * Additional Borders: http://msetemps.sourceforge.net/phpBB3/viewtopic.php?t=144
 * MSE Legendary Borders: https://magicseteditor.boards.net/thread/77/cajun-style-templates
 * Cajun Style (Alternative to MSE Legendary border link): https://github.com/CajunAvenger/Cajun-Style-Templates
+* Forge Sourcecode (Keyword): https://git.cardforge.org/core-developers/forge/blob/master/forge-game/src/main/java/forge/game/keyword/Keyword.java
 
 ## Updates:
 
