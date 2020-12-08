@@ -87,7 +87,6 @@ The list is in the order of creation
 37. C Commence in Yasen
 38. R KMS Bismarck
 39. R Emergency Extraction
-.
 40. U Industrialization
 41. C Pacify
 42. U IJN Kongo Class
